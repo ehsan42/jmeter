@@ -1,9 +1,6 @@
 Load Testing Moodle
 
-Prerequisite
-
 Moodle
-
 1. create a moodle course
 2. Add a assigment, forum, quiz, downloadable file
 3. create local users and enrol onto course
@@ -13,7 +10,7 @@ Jmeter App
 Download latest version on Jmeter https://jmeter.apache.org/download_jmeter.cgi
 
 Jmeter Script
-1. Open script in Jmeter
+1. Open the script in Jmeter
 2. Add values in
     - User Defined variables - add url value
     - Student Data - add filename location
