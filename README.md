@@ -17,7 +17,7 @@ Jmeter Script
 2. Add values in
     - User Defined variables
     - Student Data
-3. Edit id values in Loop CONtroller for each HTTP Request
+3. Edit id values in Loop Controller for each HTTP Request
 4. Save file
 5. Run script through GUI to check for any errors
 6. run the following command to run through the command line with your customised parameters
