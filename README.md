@@ -1,4 +1,4 @@
-Load Testing Moodle
+Load Testing Moodle**
 
 Moodle
 1. Create a moodle course
